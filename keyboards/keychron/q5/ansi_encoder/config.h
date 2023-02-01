@@ -28,7 +28,10 @@
 #define ENCODER_DEFAULT_POS 0x3
 
 /* Enable caps-lock LED */
-#define CAPS_LOCK_LED_INDEX 52
+#define CAPS_LOCK_LED_INDEX 25
 
 /* Enable num-lock LED */
-// #define NUM_LOCK_LED_INDEX 31
+#define NUM_LOCK_LED_INDEX 26
+
+/* Enable sccroll-lock LED */
+#define SCROLL_LOCK_LED_INDEX 27
